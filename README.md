@@ -1,2 +1,2 @@
 # First-Year-Reflection
-Computer First Year reflection
+Computer Science First Year reflection
